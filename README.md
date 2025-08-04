@@ -21,10 +21,10 @@
 
 ---
 
-## 🚀 Próximos passos:  
-- Subir meus projetos no GitHub  
-- Aprimorar minhas habilidades em Front-End  
-- Conquistar minha primeira oportunidade na área de desenvolvimento!  
+## 🚀 Próximos passos:   
+- Aprimorar minhas habilidades em Front-End.
+- Me desafiar com os projetos do meu portifólio.
+- Conquistar minha primeira oportunidade na área de desenvolvimento! 
 
 ---
 
